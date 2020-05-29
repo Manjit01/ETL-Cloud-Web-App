@@ -1,0 +1,11 @@
+Target					Source
+Code					first 6 characters with incremented integer concatenated 1
+Supplier Name				ContactName (A) 1
+Country					POCountry (N) 13
+Contact First Name			FirstName(D) 4
+Contact Last Name			LastName (E) 5
+Contact Email				EmailAddress(C) 3
+Contact Phone				Mobilenumber(Z) if not existing then Phonenumber (X) 26 or 24
+Postal Address				G,H,I,J,K,L,M  7,8,9,10,11,12,13
+Notes					Websites (AL) 38
+FileName
